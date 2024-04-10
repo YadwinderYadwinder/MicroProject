@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee Mug",
+    "price": 7.99
+  },
+  {
+    "id": 2,
+    "name": "Notebook",
+    "price": 5.49
+  },
+  {
+    "id": 3,
+    "name": "Backpack",
+    "price": 39.99
+  },
+  {
+    "id": 4,
+    "name": "Smartphone Case",
+    "price": 15.99
+  },
+  {
+    "id": 5,
+    "name": "Sunglasses",
+    "price": 29.99
+  },
+  {
+    "id": 6,
+    "name": "Headphones",
+    "price": 49.99
+  }
+]
+
+  
+  
+  
